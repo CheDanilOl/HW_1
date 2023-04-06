@@ -34,5 +34,7 @@ internal class Program
             Console.WriteLine($"Число {Num3} максимальное");
         }
         Console.ReadKey();
+        return;
+        
     }
 }
